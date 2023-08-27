@@ -1,0 +1,17 @@
+div {
+    display: flex;
+    justify-content: center;
+  }
+
+figure
+{
+    display: grid;
+    justify-content: center;
+}
+
+h2
+{
+    
+    display: grid;
+    justify-content: center;
+}
